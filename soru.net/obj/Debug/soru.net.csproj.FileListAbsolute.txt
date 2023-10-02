@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\soru.net\soru.net\obj\Debug\soru.net.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\soru.net\soru.net\obj\Debug\soru.net.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\soru.net\soru.net\obj\Debug\soru.net.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\soru.net\soru.net\obj\Debug\soru.net.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\soru.net\soru.net\obj\Debug\soru.net.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\soru.net\soru.net\obj\Debug\soru.net.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\soru.net\soru.net\bin\Debug\soru.net.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\soru.net\soru.net\bin\Debug\soru.net.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\soru.net\soru.net\bin\Debug\soru.net.pdb
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\soru.net\soru.net\obj\Debug\soru.net.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\soru.net\soru.net\obj\Debug\soru.net.pdb
